@@ -22,7 +22,7 @@ I honestly don't really know. I don't even know how I'm going to make the art or
 
 #### Have you started development yet?
 
-Most of my projects go into development hell, and consider today the start date of development.
+Most of my projects go into development hell, but development has not started yet.
 
 #### Where can I keep updated with BrowserKnight?
 
